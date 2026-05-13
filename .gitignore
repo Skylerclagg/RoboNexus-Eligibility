@@ -7,3 +7,6 @@
 
 !.gitignore
 !dist/
+!.github/
+!.github/workflows/
+!.github/workflows/*.yml
