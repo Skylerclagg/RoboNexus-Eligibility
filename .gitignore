@@ -1,0 +1,9 @@
+# Whitelist .gitignore — this repo only publishes the web build.
+# Everything is ignored by default; only paths explicitly un-ignored below
+# are tracked. Source code (App.tsx, src/, ios/, android/, etc.) lives
+# locally but is intentionally excluded from this repo.
+
+/*
+
+!.gitignore
+!dist/
